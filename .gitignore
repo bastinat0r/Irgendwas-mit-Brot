@@ -1,1 +1,4 @@
 *.synctex.gz
+*.log
+*.aux
+*.pdf
